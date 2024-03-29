@@ -2,7 +2,7 @@
 
 ### Welcome to My GitHub Profile! 🚀
 
-![Bhavishya Singla's Banner](https://your-banner-url.com)
+![Bhavishya Singla's Banner]([https://your-banner-url.com](https://github.com/bhavishyasingla1/bhavishyasingla1/blob/main/profile-banner.png))
 
 🎓 I'm currently a first-year student at Thapar Institute of Engineering and Technology, diving into the exciting world of Computer Engineering.
 
