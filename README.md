@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bhavishya Singla</h1>
-<h3 align="center">A passionate Computer Engineering Student from INDIA</h3>
+# Hello, I'm Bhavishya Singla! 👋
 
-- 📫 How to reach me **bhavishyasingla2005@gmail.com**
+### Welcome to My GitHub Profile! 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/bhavishyasingla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavishyasingla1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bhavishyasingla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhavishyasingla1" height="30" width="40" /></a>
-</p>
+![Bhavishya Singla's Banner](https://your-banner-url.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🎓 I'm currently a first-year student at Thapar Institute of Engineering and Technology, diving into the exciting world of Computer Engineering.
+
+💡 As a passionate content creator, I run a meme page and a YouTube channel where I host my podcast, Mindscape Expansion. Join me as we delve into technology, memes, and beyond!
+
+### Explore My Links:
+
+🔗 **Linktree:** [Discover More](https://linktr.ee/bhavishyasingla)
+
+📷 **Instagram:** [Follow Me](https://www.instagram.com/bhavishyasingla1/)
+
+🔗 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/bhavishyasingla1/)
+
+### Let's Tune In:
+
+🎙️ **Mindscape Expansion Podcast**: [Listen on YouTube](https://www.youtube.com/playlist?list=PLVogbS8J0CbXxuB_LufFhUtIs4iMJapOG)
+
+### Let's Connect:
+
+🤝 Open to collaboration and new projects! Feel free to reach out.
+
+### Thank You for Stopping By! 🙏
