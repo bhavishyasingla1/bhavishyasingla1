@@ -2,8 +2,6 @@
 
 ### Welcome to My GitHub Profile! 🚀
 
-![Bhavishya Singla's Banner](https://github.com/bhavishyasingla1/bhavishyasingla1/blob/7ff2d8a2e9f2c1aac1039314aa186fb3824e3791/profile-banner.png)
-
 🎓 I'm currently a 2nd-year student at Thapar Institute of Engineering and Technology, diving into the exciting world of Computer Engineering.
 
 💡 As a passionate content creator, I run a meme page and a YouTube channel where I host my podcast, Mindscape Expansion. Join me as we delve into technology, memes, and beyond!
