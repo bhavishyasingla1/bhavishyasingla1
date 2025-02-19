@@ -8,7 +8,7 @@
 
 ### Explore My Links:
 
-🔗 **Linktree:** [Discover More](https://linktr.ee/bhavishyasingla)
+🔗 **HIbhavishya.in:** [Discover More](https://hibhavishya.in/)
 
 📷 **Instagram:** [Follow Me](https://www.instagram.com/bhavishyasingla1/)
 
