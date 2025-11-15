@@ -8,12 +8,39 @@
 
 ### 🙋‍♂️ About Me
 
-🎓 Computer Engineering @ **Thapar Institute of Engineering & Technology**  
-💼 **CBO @ AuraFlo** | 🏅 **Joint Secretary @ IIC TIET**  
-🌐 **Microsoft Learn Student Ambassador (Beta)**  
-🎙️ **Podcast Host @ Mindscape Expansion** – 100K+ views on YouTube  
-💡 Exploring AI, no-code tools, branding, and startup strategy  
-✨ Building in public. Leading with purpose. Creating with passion.
+- I explore how technology is shaping our world and turn those insights into stories, resources, and community-driven learning experiences.
+
+- **Gold Microsoft Student Ambassador**
+  - Work at the intersection of AI, youth engagement, and emerging technologies  
+  - Led hands-on sessions and collaborated on community initiatives  
+  - Contribute to programs that help students understand and adapt to rapid technological shifts  
+
+- **Author of Two eBooks**
+  - *Mad Over Marketing for Real* — a practical take on marketing fundamentals  
+  - *Control + Alt + AI* — a guide to exploring and creating with the coolest AI tools of 2025  
+
+- I create content that breaks down complex tech trends—not as an expert, but as a curious, reflective learner exploring how people react to the future being built around us.
+
+- **Podcast Host — Mindscape Expansion**
+  - Conversations on tech, creativity, and personal growth  
+  - Featured students, founders, and educators  
+  - Reached thousands of listeners and sparked meaningful discussions across communities  
+
+- **Institution’s Innovation Council (IIC) Contributor**
+  - Help build a culture of experimentation, collaboration, and student-led innovation  
+  - Support initiatives that empower students to explore and apply new ideas  
+
+- **Core Belief**
+  - When people understand technology, they can shape it—rather than just react to it.
+
+- Currently exploring opportunities, fellowships, and global platforms focused on:
+  - AI  
+  - Digital transformation  
+  - Youth empowerment  
+  - Future of creativity  
+
+- Open to connecting with individuals and organisations aligned with these interests.
+
 
 ---
 
