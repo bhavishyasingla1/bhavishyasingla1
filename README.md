@@ -53,13 +53,4 @@
 
 ---
 
-### 🤝 I'm open to:
-
-- Podcast collabs 🎙️  
-- Marketing & community projects 📢  
-- Student & startup-led initiatives 💡  
-- Anything bold, curious, and impactful 🚀
-
----
-
 Thanks for stopping by! Let's create something awesome ✨
